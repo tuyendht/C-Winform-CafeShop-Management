@@ -1,0 +1,39 @@
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.exe.config
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.exe
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.pdb
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csprojAssemblyReference.cache
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fLogin.resources
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.Properties.Resources.resources
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csproj.GenerateResource.cache
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csproj.CoreCompileInputs.cache
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.exe
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.pdb
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fManager.resources
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fAccount.resources
+F:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fAdmin.resources
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.exe.config
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.exe
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.pdb
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csprojAssemblyReference.cache
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fAccount.resources
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fAdmin.resources
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fLogin.resources
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fManager.resources
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.Properties.Resources.resources
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csproj.GenerateResource.cache
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csproj.CoreCompileInputs.cache
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.exe
+E:\PRN292_CODE\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.pdb
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.exe.config
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.exe
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\bin\Debug\CafeShop_ASM.pdb
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csprojAssemblyReference.cache
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fAccount.resources
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fAdmin.resources
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fLogin.resources
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.fManager.resources
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.Properties.Resources.resources
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csproj.GenerateResource.cache
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.csproj.CoreCompileInputs.cache
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.exe
+C:\Users\Trungtuyen\OneDrive\Desktop\Hoc Tap\PRN292\ASM_PRN_GROUP4\CafeShop_ASM\CafeShop_ASM\obj\Debug\CafeShop_ASM.pdb
